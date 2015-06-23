@@ -1,17 +1,20 @@
 {
     "name": "appmake/yii2-boostrap",
 	"keywords": ["yii2", "bootstrap"],
-    "require": {
-        "yiisoft/yii2-bootstrap": "^2.0@dev",
-        "php": "5.3.0"
-    },
-    "authors": [
+	"description": "Twitter-Bootstrap helpers for Yii2",
+    "license": "MIT",
+	"authors": [
         {
             "name": "Sergey Safronov",
             "email": "safronov.ser@icloud.com"
         }
     ],
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
+    "require": {
+        "php":">=5.4.0",
+		"yiisoft/yii2": "*",
+		"yiisoft/yii2-bootstrap": "*"
+    },
 	"autoload": {
 		"psr-4": {
 			"appmake\\yii2-bootstrap\\": ""
