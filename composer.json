@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
     "name": "appmake/yii2-boostrap",
-=======
-    "name": "appmake/yii2-bootstrap",
->>>>>>> FETCH_HEAD
 	"keywords": ["yii2", "bootstrap"],
 	"description": "Twitter-Bootstrap helpers for Yii2",
     "license": "MIT",
@@ -13,11 +9,7 @@
             "email": "safronov.ser@icloud.com"
         }
     ],
-<<<<<<< HEAD
-	"minimum-stability": "stable",
-=======
 	"minimum-stability": "dev",
->>>>>>> FETCH_HEAD
     "require": {
         "php":">=5.4.0",
 		"yiisoft/yii2": "*",
@@ -25,12 +17,7 @@
     },
 	"autoload": {
 		"psr-4": {
-<<<<<<< HEAD
 			"appmake\\yii2\\bootstrap\\": ""
-		}
-	}
-=======
-			"appmake\\yii2-bootstrap\\": ""
 		}
 	},
 	"extra": {
@@ -38,5 +25,4 @@
             "dev-master": "1.0.x-dev"
         }
     }
->>>>>>> FETCH_HEAD
 }
