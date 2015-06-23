@@ -11,7 +11,6 @@
             "email": "safronov.ser@icloud.com"
         }
     ],
-    "minimum-stability": "dev",
 	"autoload": {
 		"psr-4": {
 			"appmake\\yii2-bootstrap\\": ""
