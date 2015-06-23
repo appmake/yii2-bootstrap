@@ -1,6 +1,10 @@
 <?php
 
+<<<<<<< HEAD
 namespace appmake\yii2\bootstrap;
+=======
+namespace appmake\bootstrap;
+>>>>>>> FETCH_HEAD
 
 use yii\helpers\Html;
 use yii\helpers\Url;

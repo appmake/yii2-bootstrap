@@ -1,6 +1,10 @@
 <?php
+<<<<<<< HEAD
 
 namespace appmake\yii2\bootstrap;
+=======
+namespace appmake\bootstrap;
+>>>>>>> FETCH_HEAD
 
 /**
  * @author Sergey Safronov <safronov.ser@icloud.com>
