@@ -1,0 +1,20 @@
+{
+    "name": "appmake/yii2-boostrap",
+	"keywords": ["yii2", "yii2-bootstrap"],
+    "require": {
+        "yiisoft/yii2-bootstrap": "^2.0@dev",
+        "php": "5.4.0"
+    },
+    "authors": [
+        {
+            "name": "Sergey Safronov",
+            "email": "safronov.ser@icloud.com"
+        }
+    ],
+    "minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"appmake\\yii2-bootstrap\\": ""
+		}
+	}
+}
